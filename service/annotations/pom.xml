@@ -21,7 +21,7 @@
 
   <groupId>com.github.sidneibjunior</groupId>
   <artifactId>auto-service-annotations</artifactId>
-  <version>1.0-rc7-SNAPSHOT</version>
+  <version>1.0-rc6-SNAPSHOT</version>
   <name>AutoService</name>
   <description>
     Provider-configuration files for ServiceLoader.
