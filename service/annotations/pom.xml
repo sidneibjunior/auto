@@ -35,6 +35,23 @@
     <tag>HEAD</tag>
   </scm>
 
+  <licenses>
+    <license>
+      <name>Apache 2.0</name>
+      <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+    </license>
+  </licenses>
+
+  <developers>
+    <developer>
+      <name>Sidnei Bernardo Junior</name>
+      <email>sidaobjunior@gmail.com@gmail.com</email>
+      <organization>sidneibjunior</organization>
+      <organizationUrl>https://github.com/sidneibjunior</organizationUrl>
+      <timezone>UTC-03:00</timezone>
+    </developer>
+  </developers>
+
   <dependencies>
     <dependency>
       <groupId>org.apache.maven.plugins</groupId>
