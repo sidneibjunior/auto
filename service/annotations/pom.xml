@@ -18,11 +18,7 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <parent>
-    <groupId>com.google.auto.service</groupId>
-    <artifactId>auto-service-aggregator</artifactId>
-    <version>HEAD-SNAPSHOT</version>
-  </parent>
+  
 
   <groupId>com.github.sidneibjunior</groupId>
   <artifactId>auto-service-annotations</artifactId>
